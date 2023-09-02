@@ -1,5 +1,6 @@
 {
   "name": "heizung",
+  "homepage" : "https://letsgetthismoney.github.io/Heizungsrechner/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
